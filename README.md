@@ -22,4 +22,4 @@ FC表示の部分は、fuyu-neko様の150cc-lounge-statsbotを参考にさせて
 https://github.com/fuyu-neko/StatsBot-150cc-Lounge
 
 # 連絡先
-discord : yuuuuuuuga#3655
+discord : yuuuuuuuga
